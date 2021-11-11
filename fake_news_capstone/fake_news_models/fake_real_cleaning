@@ -1,9 +1,0 @@
-import pandas as pd
-import numpy as np
-import seaborn as sns
-
-df_fake = pd.read_csv('arko_models/fake_real_news_data/Fake.csv')
-df_real = pd.read_csv('arko_models/fake_real_news_data/True.csv')
-
-df_fake.head()
-
