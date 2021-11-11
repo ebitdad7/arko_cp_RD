@@ -1,0 +1,28 @@
+#### Sentiment anaylysis model ####
+
+### import modules ###
+#import numpy as np
+#import pandas as pd
+#import seaborn as sns
+#import matplotlib.pyplot as plt
+#import nltk
+#from sklearn.preprocessing import LabelBinarizer
+#from nltk.corpus import stopwords
+#from nltk.stem.porter import PorterStemmer
+#from wordcloud import WordCloud,STOPWORDS
+#from nltk.stem import WordNetLemmatizer
+#from nltk.tokenize import word_tokenize,sent_tokenize
+#from bs4 import BeautifulSoup
+#import re,string,unicodedata
+#from keras.preprocessing import text, sequence
+#from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
+#from sklearn.model_selection import train_test_split
+#from string import punctuation
+#from nltk import pos_tag
+#from nltk.corpus import wordnet
+#import keras
+#from keras.models import Sequential
+#from keras.layers import Dense,Embedding,LSTM,Dropout
+#from keras.callbacks import ReduceLROnPlateau
+#import tensorflow as tf
+
